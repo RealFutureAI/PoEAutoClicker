@@ -1,7 +1,7 @@
 # PoEAutoClicker
 A fast AHK tool to release beasts from your bestiary by continously pressing ctrl+leftclick
 
-Instructions:
+## Instructions:
 
 1. Install Autohotkey
 2. Download PoEAutoClicker.ahk and run it
@@ -9,7 +9,10 @@ Instructions:
 
 Careful! The tool will not filter the beasts for you, you have to do that on your own or it will release valuable beasts too!
 
-Support:
+## Support
+
 If you want to support me, you can do it here:
-buymeacoffee.com/RealFutureAi
-paypal.me/FutureAI
+
+- [Buy Me a Coffee](https://buymeacoffee.com/RealFutureAi)
+- [PayPal](https://paypal.me/FutureAI)
+
